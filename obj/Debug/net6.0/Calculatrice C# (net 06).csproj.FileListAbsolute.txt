@@ -1,0 +1,14 @@
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\obj\Debug\net6.0\Calculatrice C# (net 06).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\obj\Debug\net6.0\Calculatrice C# (net 06).AssemblyInfoInputs.cache
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\obj\Debug\net6.0\Calculatrice C# (net 06).AssemblyInfo.cs
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\obj\Debug\net6.0\Calculatrice C# (net 06).csproj.CoreCompileInputs.cache
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\bin\Debug\net6.0\Calculatrice C# (net 06).exe
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\bin\Debug\net6.0\Calculatrice C# (net 06).deps.json
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\bin\Debug\net6.0\Calculatrice C# (net 06).runtimeconfig.json
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\bin\Debug\net6.0\Calculatrice C# (net 06).dll
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\bin\Debug\net6.0\Calculatrice C# (net 06).pdb
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\obj\Debug\net6.0\Calculatrice C# (net 06).dll
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\obj\Debug\net6.0\refint\Calculatrice C# (net 06).dll
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\obj\Debug\net6.0\Calculatrice C# (net 06).pdb
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\obj\Debug\net6.0\Calculatrice C# (net 06).genruntimeconfig.cache
+C:\Users\pa10osn\OneDrive - Education Vaud\4MSIG\Programmation\8 CSharp\Calculatrice C# (net 06)\obj\Debug\net6.0\ref\Calculatrice C# (net 06).dll
